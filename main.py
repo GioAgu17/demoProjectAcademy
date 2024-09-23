@@ -26,6 +26,8 @@ orologio = pygame.time.Clock()
 # Imposta il frame rate desiderato (ad esempio 60 FPS)
 frame_rate = 60
 
+# Aggiunta di un commento inutile per un commit di test
+
 # Loop principale del gioco
 while True:
     for event in pygame.event.get():
